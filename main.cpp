@@ -48,7 +48,7 @@ int main(int argc, const char *argv[])
     }
   }
 
-  cout << "W" << 4 << endl;
+  cout << "W" << 4 << " (Matriz de cierre transitivo)" << endl;
 
     for (int i = 0; i < 4; i++)
     {
